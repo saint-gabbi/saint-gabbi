@@ -23,7 +23,7 @@
       </div>
       <br>
       <!-- Right side image goes here -->
-      <img src="https://github.com/saint-gabbi/gabbi/blob/main/cloud.png?raw=true" width="100%">
+      <img src="https://github.com/saint-gabbi/saint-gabbi/blob/main/cloud.png?raw=true" width="100%">
     </td>
   </tr>
 </table>
