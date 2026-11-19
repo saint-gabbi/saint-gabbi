@@ -1,16 +1,29 @@
-## Hi there 👋
+<table width="100%">
+  <tr>
+    <td valign="top" width="60%">
+<h3>about-me</h3>
+<ul>
+  <li>Currently a Second-Year BSIT student from National Teachers College</li>
+  <li>programming for fun</li>
+    <h3>/ current skills /</h3>
+<p>Current Skills are based on studies and own-time practices via online sourced courses.</p>
 
-<!--
-**saint-gabbi/saint-gabbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul><li><b>languages</b></li></ul>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><ul><li><b>Databases</b></li></ul>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</ul>      
+    <td valign="top" width="40%">
+      <!-- Artist Credit Link -->
+      <div align="right">
+        <i><a href="https://www.deviantart.com/haleyhylia">Image by HaleyHylia</a></i>
+      </div>
+      <br>
+      <!-- Right side image goes here -->
+      <img src="https://github.com/saint-gabbi/gabbi/blob/main/cloud.png?raw=true" width="100%">
+    </td>
+  </tr>
+</table>
