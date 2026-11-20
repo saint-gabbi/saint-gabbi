@@ -5,7 +5,7 @@
 <ul>
   <li>Currently a Second-Year BSIT student from National Teachers College</li>
   <li>programming for fun</li>
-    <h3>/ current skills /</h3>
+    <h3>Current skills:</h3>
 <p>Current Skills are based on studies and own-time practices via online sourced courses.</p>
 
 <ul><li><b>languages</b></li></ul>
@@ -15,6 +15,7 @@
 
 <br><ul><li><b>Databases</b></li></ul>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<br><h3>Readme layout inspired by CodexApple <3</h3>
 </ul>      
     <td valign="top" width="40%">
       <!-- Artist Credit Link -->
