@@ -3,10 +3,10 @@
     <td valign="top" width="60%">
 <h3>about-me</h3>
 <ul>
-  <li>Currently a Second-Year BSIT student from National Teachers College</li>
-  <li>programming for fun</li>
+  <li>Currently a Second-Year BSIT student from National Teachers College :) </li>
+  <li>programming for fun and for studies</li>
     <h3>Current skills:</h3>
-<p>Current Skills are based on studies and own-time practices via online sourced courses.</p>
+<p><li>Current Skills are based on studies and own-time practices via online sourced courses 😛</li></p>
 
 <ul><li><b>languages</b></li></ul>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
